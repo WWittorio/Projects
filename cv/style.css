@@ -1,0 +1,25 @@
+.top {
+  background-color: gainsboro;
+  width: 100%;
+  text-align: center;
+}
+
+#titoloPrincipale {
+  background-color: wheat;
+}
+
+.img {
+  text-align: center;
+  border-radius: 100%;
+}
+.line {
+  border-top: 2px solid goldenrod;
+}
+
+.title {
+  color: goldenrod;
+}
+
+.subtitle {
+  font-style: italic;
+}
